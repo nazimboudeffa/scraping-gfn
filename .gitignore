@@ -1,3 +1,4 @@
 /drivers
 privkey.py
 /__pycache__
+geckodriver.log
